@@ -9,3 +9,4 @@ all_in_month float - сумма всех "weight" за месяц поле "birt
 hash uuid          - хэш строки
 
 Результат отсортирован в обратном порядке по "first_name" и "last_name", содержит 500 строк.
+![image](https://github.com/itis-db/2-stepantishhen/assets/50077707/9c0f22f7-9382-4d9e-a8ae-78a6e003fb50)
